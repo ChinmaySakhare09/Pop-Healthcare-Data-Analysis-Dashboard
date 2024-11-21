@@ -3,4 +3,4 @@ The goal is to visualize and derive insights from data that includes patient inf
 ##Dataset Used
 - <a href="https://github.com/ChinmaySakhare09/Pop-Healthcare-Data-Analysis-Dashboard/blob/main/Pop%20Healthcare.xlsx"> Pop HealthCare
 - <b href="https://github.com/ChinmaySakhare09/Pop-Healthcare-Data-Analysis-Dashboard/blob/main/Pop%20Healthcare%20Info.pdf"> Pop HealthCare Info
-- 
+- <c href="https://github.com/ChinmaySakhare09/Pop-Healthcare-Data-Analysis-Dashboard/blob/main/Pop%20Healthcare%20Dashboard.pdf"> Pop HealthCare Dashboard
